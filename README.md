@@ -1,2 +1,2 @@
-# Luismaozinha.github.io
-Meu site pessoal no GitHub
+# Portifólio Pessoasl
+Este é um projeto do curso de Git da ByLearn onde criamos um portfólio pessoal usando o GitHub Pages.
