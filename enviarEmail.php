@@ -13,9 +13,12 @@ $phone = $_POST['phone'];
 //$assunto
 $assunto = $_POST['Formulário de Portfólio do GitHub'];
  //6 – Agora definimos a  mensagem que vai ser enviado no e-mail
-$mensagem = "<strong>Nome:  </strong>".$nome;
-$mensagem .= "<br>  <strong>Mensagem: </strong>"
-.$_POST['message'];
+//$mensagem = "<strong>Nome:  </strong>".$nome;
+//$mensagem .= "<strong>Phone:  </strong>".$phone;
+//$mensagem .= "<br>  <strong>Mensagem: </strong>"
+//.$_POST['message'];
+$msgtemp  = $_POST['message']
+$mensagem = $_POST["<strong>Nome: $nome , Phone: .$phone </strong> \n.. \n.. .$msgtemp "]
 
 //7 – agora inserimos as codificações corretas e  tudo mais.
 $headers =  "Content-Type:text/html; charset=UTF-8\n";
