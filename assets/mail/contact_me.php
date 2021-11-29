@@ -1,3 +1,9 @@
+
+
+
+
+
+
 <!DOCTYPE html>
 <html lang="en" data-color-mode="auto" data-light-theme="light" data-dark-theme="dark">
   <head>
@@ -92,14 +98,14 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>felipe-cabrera.github.io/contact_me.php at main · felipe-cabrera/felipe-cabrera.github.io</title>
-    <meta name="description" content="Meu site no github. Contribute to felipe-cabrera/felipe-cabrera.github.io development by creating an account on GitHub.">
+  <title>Luismaozinha.github.io/contact_me.php at main · Luismaozinha/Luismaozinha.github.io</title>
+    <meta name="description" content="Meu site no github. Contribute to Luismaozinha/Luismaozinha.github.io development by creating an account on GitHub.">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
   <meta name="apple-itunes-app" content="app-id=1477376905" />
-    <meta name="twitter:image:src" content="https://opengraph.githubassets.com/eaa612e0b3ee11899930025ac06a3c4f2a2bd28ae6b56a6f91094f11a74bb03a/felipe-cabrera/felipe-cabrera.github.io" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="felipe-cabrera.github.io/contact_me.php at main · felipe-cabrera/felipe-cabrera.github.io" /><meta name="twitter:description" content="Meu site no github. Contribute to felipe-cabrera/felipe-cabrera.github.io development by creating an account on GitHub." />
-    <meta property="og:image" content="https://opengraph.githubassets.com/eaa612e0b3ee11899930025ac06a3c4f2a2bd28ae6b56a6f91094f11a74bb03a/felipe-cabrera/felipe-cabrera.github.io" /><meta property="og:image:alt" content="Meu site no github. Contribute to felipe-cabrera/felipe-cabrera.github.io development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="felipe-cabrera.github.io/contact_me.php at main · felipe-cabrera/felipe-cabrera.github.io" /><meta property="og:url" content="https://github.com/felipe-cabrera/felipe-cabrera.github.io" /><meta property="og:description" content="Meu site no github. Contribute to felipe-cabrera/felipe-cabrera.github.io development by creating an account on GitHub." />
+    <meta name="twitter:image:src" content="https://opengraph.githubassets.com/eaa612e0b3ee11899930025ac06a3c4f2a2bd28ae6b56a6f91094f11a74bb03a/Luismaozinha/Luismaozinha.github.io" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="Luismaozinha.github.io/contact_me.php at main · Luismaozinha/Luismaozinha.github.io" /><meta name="twitter:description" content="Meu site no github. Contribute to Luismaozinha/Luismaozinha.github.io development by creating an account on GitHub." />
+    <meta property="og:image" content="https://opengraph.githubassets.com/eaa612e0b3ee11899930025ac06a3c4f2a2bd28ae6b56a6f91094f11a74bb03a/Luismaozinha/Luismaozinha.github.io" /><meta property="og:image:alt" content="Meu site no github. Contribute to Luismaozinha/Luismaozinha.github.io development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="Luismaozinha.github.io/contact_me.php at main · Luismaozinha/Luismaozinha.github.io" /><meta property="og:url" content="https://github.com/Luismaozinha/Luismaozinha.github.io" /><meta property="og:description" content="Meu site no github. Contribute to Luismaozinha/Luismaozinha.github.io development by creating an account on GitHub." />
     
 
 
@@ -107,11 +113,11 @@
     
 
   <link rel="assets" href="https://github.githubassets.com/">
-    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/94084490/ws?session=eyJ2IjoiVjMiLCJ1Ijo5NDA4NDQ5MCwicyI6NzkxNzM1ODQ0LCJjIjoxOTk4Mjc3NDUzLCJ0IjoxNjM4MTcwNjk4fQ==--b533d51506c2994544c5c7464eebd9e16e84ac9eb23e9b801a94e0e145e34375" data-refresh-url="/_alive" data-session-id="1892c5607a56dce4423ca1d12bf99ce52c52746539c1a4c3124af8f4e9af5cf0">
+    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/94084490/ws?session=eyJ2IjoiVjMiLCJ1Ijo5NDA4NDQ5MCwicyI6NzkxNzM1ODQ0LCJjIjozOTQyNzQyMzgzLCJ0IjoxNjM4MTcxMjIzfQ==--7aeeef0cd70d104f724036089781a51a5f71c8cf493af9cc48f1d65854a5ed30" data-refresh-url="/_alive" data-session-id="1892c5607a56dce4423ca1d12bf99ce52c52746539c1a4c3124af8f4e9af5cf0">
     <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-5ba606f2.js">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
 
-  <meta name="request-id" content="FE76:4227:37DBD9:491CA1:61A4803D" data-pjax-transient="true" /><meta name="html-safe-nonce" content="a008a070ebe37fe160130484181ddd543e1659804f70ab1c7417ff2542c700fc" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9mZWxpcGUtY2FicmVyYS9mZWxpcGUtY2FicmVyYS5naXRodWIuaW8vdHJlZS9tYWluL2Fzc2V0cy9tYWlsIiwicmVxdWVzdF9pZCI6IkZFNzY6NDIyNzozN0RCRDk6NDkxQ0ExOjYxQTQ4MDNEIiwidmlzaXRvcl9pZCI6IjU1MDc4Mzg5NDM2MDUwNjEwNDgiLCJyZWdpb25fZWRnZSI6ImJyYXppbHNvdXRoIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-pjax-transient="true" /><meta name="visitor-hmac" content="2cd6b3d73207b3f59669e4b6b4b918ebdd51b5eda93bbf2807604d2e0ab1fb36" data-pjax-transient="true" />
+  <meta name="request-id" content="F774:6BE1:3179C5:408F67:61A4824C" data-pjax-transient="true" /><meta name="html-safe-nonce" content="a008a070ebe37fe160130484181ddd543e1659804f70ab1c7417ff2542c700fc" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9mZWxpcGUtY2FicmVyYS9mZWxpcGUtY2FicmVyYS5naXRodWIuaW8vdHJlZS9tYWluL2Fzc2V0cy9tYWlsIiwicmVxdWVzdF9pZCI6IkY3NzQ6NkJFMTozMTc5QzU6NDA4RjY3OjYxQTQ4MjRDIiwidmlzaXRvcl9pZCI6IjU1MDc4Mzg5NDM2MDUwNjEwNDgiLCJyZWdpb25fZWRnZSI6ImJyYXppbHNvdXRoIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-pjax-transient="true" /><meta name="visitor-hmac" content="3e85848dd035ce69a66705aa5137e0b4bb541047bf6c92a830e4c57f7bb58835" data-pjax-transient="true" />
 
     <meta name="hovercard-subject-tag" content="repository:317051403" data-pjax-transient>
 
@@ -150,7 +156,7 @@
 
       <meta name="expected-hostname" content="github.com">
 
-      <meta name="js-proxy-site-detection-payload" content="ZjJjYWZiYTkyMWFlODI4ZmI2ZGExMDUyYmUyMzk2ODg0NGMwMWJjZTg3MGQzMjZhM2NlODZkOWRjYTZjNjQ0OXx7InJlbW90ZV9hZGRyZXNzIjoiMTUyLjI1NC4xOTYuMTI3IiwicmVxdWVzdF9pZCI6IkZFNzY6NDIyNzozN0RCRDk6NDkxQ0ExOjYxQTQ4MDNEIiwidGltZXN0YW1wIjoxNjM4MTcwNjk4LCJob3N0IjoiZ2l0aHViLmNvbSJ9">
+      <meta name="js-proxy-site-detection-payload" content="NTk5ODgwZTBkY2ZlZjQzZmY2NGI2M2Y1NWNjOWNmYzBlZmY0MDM4OTg4NjBlZmNmYzMzOTM4N2M3NDZkMDU5ZXx7InJlbW90ZV9hZGRyZXNzIjoiMTUyLjI1NC4xOTYuMTI3IiwicmVxdWVzdF9pZCI6IkY3NzQ6NkJFMTozMTc5QzU6NDA4RjY3OjYxQTQ4MjRDIiwidGltZXN0YW1wIjoxNjM4MTcxMjIzLCJob3N0IjoiZ2l0aHViLmNvbSJ9">
       <meta name="keyboard-shortcuts-preference" content="all">
       <script type="application/json" id="memex_keyboard_shortcuts_preference">"all"</script>
 
@@ -163,13 +169,13 @@
   
 
     
-  <meta name="go-import" content="github.com/felipe-cabrera/felipe-cabrera.github.io git https://github.com/felipe-cabrera/felipe-cabrera.github.io.git">
+  <meta name="go-import" content="github.com/Luismaozinha/Luismaozinha.github.io git https://github.com/Luismaozinha/Luismaozinha.github.io.git">
 
-  <meta name="octolytics-dimension-user_id" content="48259448" /><meta name="octolytics-dimension-user_login" content="felipe-cabrera" /><meta name="octolytics-dimension-repository_id" content="317051403" /><meta name="octolytics-dimension-repository_nwo" content="felipe-cabrera/felipe-cabrera.github.io" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="317051403" /><meta name="octolytics-dimension-repository_network_root_nwo" content="felipe-cabrera/felipe-cabrera.github.io" />
+  <meta name="octolytics-dimension-user_id" content="48259448" /><meta name="octolytics-dimension-user_login" content="Luismaozinha" /><meta name="octolytics-dimension-repository_id" content="317051403" /><meta name="octolytics-dimension-repository_nwo" content="Luismaozinha/Luismaozinha.github.io" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="317051403" /><meta name="octolytics-dimension-repository_network_root_nwo" content="Luismaozinha/Luismaozinha.github.io" />
 
 
 
-    <link rel="canonical" href="https://github.com/felipe-cabrera/felipe-cabrera.github.io/blob/main/assets/mail/contact_me.php" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/Luismaozinha/Luismaozinha.github.io/blob/main/assets/mail/contact_me.php" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -210,7 +216,7 @@
   href="https://github.com/"
   data-hotkey="g d"
   aria-label="Homepage "
-  data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;,&quot;originating_url&quot;:&quot;https://github.com/felipe-cabrera/felipe-cabrera.github.io/blob/main/assets/mail/contact_me.php&quot;,&quot;user_id&quot;:94084490}}" data-hydro-click-hmac="051e5dbd4ee475dd7e1f4932fb7016684906038a15c1dfd3f3e175c35d569a74" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;}"
+  data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;,&quot;originating_url&quot;:&quot;https://github.com/Luismaozinha/Luismaozinha.github.io/blob/main/assets/mail/contact_me.php&quot;,&quot;user_id&quot;:94084490}}" data-hydro-click-hmac="051e5dbd4ee475dd7e1f4932fb7016684906038a15c1dfd3f3e175c35d569a74" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;}"
 >
   <svg height="32" aria-hidden="true" viewBox="0 0 16 16" version="1.1" width="32" data-view-component="true" class="octicon octicon-mark-github v-align-middle">
     <path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path>
@@ -239,7 +245,7 @@
 <div class="header-search flex-auto js-site-search position-relative flex-self-stretch flex-md-self-auto mb-3 mb-md-0 mr-0 mr-md-3 scoped-search site-scoped-search js-jump-to"
 >
   <div class="position-relative">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="Repository" data-scope-id="317051403" data-scoped-search-url="/felipe-cabrera/felipe-cabrera.github.io/search" data-owner-scoped-search-url="/users/felipe-cabrera/search" data-unscoped-search-url="/search" action="/felipe-cabrera/felipe-cabrera.github.io/search" accept-charset="UTF-8" method="get">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="Repository" data-scope-id="317051403" data-scoped-search-url="/Luismaozinha/Luismaozinha.github.io/search" data-owner-scoped-search-url="/users/Luismaozinha/search" data-unscoped-search-url="/search" action="/Luismaozinha/Luismaozinha.github.io/search" accept-charset="UTF-8" method="get">
       <label class="form-control input-sm header-search-wrapper p-0 js-chromeless-input-container header-search-wrapper-jump-to position-relative d-flex flex-justify-between flex-items-center">
         <input type="text"
           class="form-control input-sm header-search-input jump-to-field js-jump-to-field js-site-search-focus js-site-search-field is-clearable"
@@ -260,7 +266,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" value="rtwQsmr31RkZzpoPjjEkjf5P24c8v9bXKU7rh7273k5PZtjEHt147y47FfGEnFlZLSXjzO2gz1a+52McYNI01g==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+        <input type="hidden" value="An8M/QPJ9t/eMdt9aItoCXEcdW00rJ1wlK39sXsazKfjxcSLd+NbKenEVINiJhXdonZNJuWzhPEDBHUqpnMmPw==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -467,7 +473,7 @@
     <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:workspaces context:user" data-selected-links="/codespaces /codespaces" href="/codespaces">
       Codespaces
 </a>
-      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;Luismaozinha&quot;,&quot;originating_url&quot;:&quot;https://github.com/felipe-cabrera/felipe-cabrera.github.io/blob/main/assets/mail/contact_me.php&quot;,&quot;user_id&quot;:94084490}}" data-hydro-click-hmac="64072f1038af8727ea89bd929df16b47ed41f3a1aaf9a5a3d44925ed04ae2348" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
+      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;Luismaozinha&quot;,&quot;originating_url&quot;:&quot;https://github.com/Luismaozinha/Luismaozinha.github.io/blob/main/assets/mail/contact_me.php&quot;,&quot;user_id&quot;:94084490}}" data-hydro-click-hmac="64072f1038af8727ea89bd929df16b47ed41f3a1aaf9a5a3d44925ed04ae2348" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
 
     <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" href="/settings/profile">
       Settings
@@ -476,12 +482,12 @@
       <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/94084490?s=40&amp;v=4" width="20" height="20" alt="@Luismaozinha" />
       Luismaozinha
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="O+BCeWueqjLO9cw1op68gfvlgvZjaXHLpoKKcWdQGDaNhN2YlnFs73tw8TEa/tRVRyvJF+jOByZV9rRsQar42w==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="MSA1szNpnzsY9rrWwzi3bdBmE90TMq+ZMI0lniPD9kmHRKpSzoZZ5q1zh9J7WN+5bKhYPJiV2XTD+RuDBTkWpA==" />
       <button
         type="submit"
         class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width-full text-left"
         style="padding-left: 2px;"
-        data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;sign out&quot;,&quot;label&quot;:&quot;icon:logout&quot;,&quot;originating_url&quot;:&quot;https://github.com/felipe-cabrera/felipe-cabrera.github.io/blob/main/assets/mail/contact_me.php&quot;,&quot;user_id&quot;:94084490}}" data-hydro-click-hmac="4bfcea108f635432520f2f221cbc33ce7433d7ab261f002dc35830c0c979db0e" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;sign out&quot;,&quot;label&quot;:&quot;icon:logout&quot;}"
+        data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;sign out&quot;,&quot;label&quot;:&quot;icon:logout&quot;,&quot;originating_url&quot;:&quot;https://github.com/Luismaozinha/Luismaozinha.github.io/blob/main/assets/mail/contact_me.php&quot;,&quot;user_id&quot;:94084490}}" data-hydro-click-hmac="4bfcea108f635432520f2f221cbc33ce7433d7ab261f002dc35830c0c979db0e" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;sign out&quot;,&quot;label&quot;:&quot;icon:logout&quot;}"
       >
         <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-sign-out v-align-middle">
     <path fill-rule="evenodd" d="M2 2.75C2 1.784 2.784 1 3.75 1h2.5a.75.75 0 010 1.5h-2.5a.25.25 0 00-.25.25v10.5c0 .138.112.25.25.25h2.5a.75.75 0 010 1.5h-2.5A1.75 1.75 0 012 13.25V2.75zm10.44 4.5H6.75a.75.75 0 000 1.5h5.69l-1.97 1.97a.75.75 0 101.06 1.06l3.25-3.25a.75.75 0 000-1.06l-3.25-3.25a.75.75 0 10-1.06 1.06l1.97 1.97z"></path>
@@ -498,7 +504,7 @@
   href="https://github.com/"
   data-hotkey="g d"
   aria-label="Homepage "
-  data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;,&quot;originating_url&quot;:&quot;https://github.com/felipe-cabrera/felipe-cabrera.github.io/blob/main/assets/mail/contact_me.php&quot;,&quot;user_id&quot;:94084490}}" data-hydro-click-hmac="051e5dbd4ee475dd7e1f4932fb7016684906038a15c1dfd3f3e175c35d569a74" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;}"
+  data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;,&quot;originating_url&quot;:&quot;https://github.com/Luismaozinha/Luismaozinha.github.io/blob/main/assets/mail/contact_me.php&quot;,&quot;user_id&quot;:94084490}}" data-hydro-click-hmac="051e5dbd4ee475dd7e1f4932fb7016684906038a15c1dfd3f3e175c35d569a74" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;}"
 >
   <svg height="32" aria-hidden="true" viewBox="0 0 16 16" version="1.1" width="32" data-view-component="true" class="octicon octicon-mark-github v-align-middle">
     <path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path>
@@ -514,7 +520,7 @@
       <notification-indicator
         class="js-socket-channel"
         data-test-selector="notifications-indicator"
-        data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6OTQwODQ0OTAiLCJ0IjoxNjM4MTcwNjk4fQ==--e05b6a8d46a823cce3f9c1a1aededebaa2d87bb7e3b958381ec2532db038e2a4">
+        data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6OTQwODQ0OTAiLCJ0IjoxNjM4MTcxMjIzfQ==--6dc5bf8fdb32c3a33f3dc2c2375fba42648a62cb77997b61e190e75bc6aab262">
         <a href="/notifications"
           class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
           
@@ -537,7 +543,7 @@
   <summary
     class="Header-link"
     aria-label="Create new…"
-    data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;create new&quot;,&quot;label&quot;:&quot;icon:add&quot;,&quot;originating_url&quot;:&quot;https://github.com/felipe-cabrera/felipe-cabrera.github.io/blob/main/assets/mail/contact_me.php&quot;,&quot;user_id&quot;:94084490}}" data-hydro-click-hmac="4cc487fb963194dc149acf4b1140cb5eebd62d59a3f62872695f25c027491125" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;create new&quot;,&quot;label&quot;:&quot;icon:add&quot;}"
+    data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;create new&quot;,&quot;label&quot;:&quot;icon:add&quot;,&quot;originating_url&quot;:&quot;https://github.com/Luismaozinha/Luismaozinha.github.io/blob/main/assets/mail/contact_me.php&quot;,&quot;user_id&quot;:94084490}}" data-hydro-click-hmac="4cc487fb963194dc149acf4b1140cb5eebd62d59a3f62872695f25c027491125" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;create new&quot;,&quot;label&quot;:&quot;icon:add&quot;}"
   >
       <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-plus">
     <path fill-rule="evenodd" d="M7.75 2a.75.75 0 01.75.75V7h4.25a.75.75 0 110 1.5H8.5v4.25a.75.75 0 11-1.5 0V8.5H2.75a.75.75 0 010-1.5H7V2.75A.75.75 0 017.75 2z"></path>
@@ -575,7 +581,7 @@
   <summary
     class="Header-link"
     aria-label="View profile and more"
-    data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;show menu&quot;,&quot;label&quot;:&quot;icon:avatar&quot;,&quot;originating_url&quot;:&quot;https://github.com/felipe-cabrera/felipe-cabrera.github.io/blob/main/assets/mail/contact_me.php&quot;,&quot;user_id&quot;:94084490}}" data-hydro-click-hmac="5e998cf5558b9323a5cb8e8c3751daccc1cbf73e4e657707a8211517b0036599" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;show menu&quot;,&quot;label&quot;:&quot;icon:avatar&quot;}"
+    data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;show menu&quot;,&quot;label&quot;:&quot;icon:avatar&quot;,&quot;originating_url&quot;:&quot;https://github.com/Luismaozinha/Luismaozinha.github.io/blob/main/assets/mail/contact_me.php&quot;,&quot;user_id&quot;:94084490}}" data-hydro-click-hmac="5e998cf5558b9323a5cb8e8c3751daccc1cbf73e4e657707a8211517b0036599" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;show menu&quot;,&quot;label&quot;:&quot;icon:avatar&quot;}"
   >
     <img src="https://avatars.githubusercontent.com/u/94084490?s=40&amp;v=4" alt="@Luismaozinha" size="20" height="20" width="20" data-view-component="true" class="avatar avatar-small circle" />
       <span class="feature-preview-indicator js-feature-preview-indicator" style="top: 1px;" hidden></span>
@@ -649,14 +655,14 @@
   <details-dialog class="command-palette-details-dialog d-flex flex-column flex-justify-center height-fit">
     <command-palette
       class="command-palette color-bg-default rounded-3"
-      data-return-to=/felipe-cabrera/felipe-cabrera.github.io/blob/main/assets/mail/contact_me.php
+      data-return-to=/Luismaozinha/Luismaozinha.github.io/blob/main/assets/mail/contact_me.php
       data-user-id="94084490"
       >
-      <input type="hidden" value="D3hXMszeP0sNlGOs4vuBW15x3fEaajUUHrIO7OnYqPh4S8BEQdRKJgx5nOEmdomE60h6i0t4kPtk3GAz/hLp4g==" data-csrf="true" class="js-graphql-csrf" />
+      <input type="hidden" value="VL8YxczjJ8X70RLqncf7Ct5BKrDVCH4v1qBr7Dw2o5YjjI+zQelSqPo87adZSvPVa3iNyoQa28CszgUzK/zijA==" data-csrf="true" class="js-graphql-csrf" />
       <iframe class="d-none js-command-palette-commands" sandbox="allow-scripts allow-same-origin" srcdoc="<script crossorigin=&quot;anonymous&quot; defer=&quot;defer&quot; integrity=&quot;sha512-2Jz3lq/Gk0f8RePMFf+bUCfw6LwZ3nXfh3AQmMFOUj5cIW/rCeZcWRFO/q0l00bbLMcdXkpDj6KvP9Ny2qh8QA==&quot; type=&quot;application/javascript&quot; src=&quot;https://github.githubassets.com/assets/command-runner-d89cf796.js&quot;></script>
 " aria-hidden="true" data-url="https://github.com"></iframe>
       <input type="hidden" name="color-mode-path" id="color-mode-path" value="/settings/appearance/color_mode" class="js-color-mode-path" autocomplete="off" />
-      <input type="hidden" value="a5KyFAESae64SrVP+j4kWWLjRxc9f+h/Rii2B00fWiMF9fBnTF+ig1SnXJUANOcMGk5S5XsNeOn+D6U65yagtA==" data-csrf="true" class="js-color-mode-csrf" />
+      <input type="hidden" value="vFP0VB3R0EXMhYfyRKxm7BUIB5wbIPG/rdNHaQGp6NjSNLYnUJwbKCBobii+pqW5baUSbl1SYSkV9FRUq5ASTw==" data-csrf="true" class="js-color-mode-csrf" />
 
         <command-palette-mode
           data-char="#"
@@ -710,19 +716,19 @@
       >
           <command-palette-scope>
               <command-palette-token
-                data-text="felipe-cabrera"
+                data-text="Luismaozinha"
                 data-id="MDQ6VXNlcjQ4MjU5NDQ4"
                 data-type="owner"
-                data-value="felipe-cabrera"
+                data-value="Luismaozinha"
                 data-targets="command-palette-scope.tokens"
-                >felipe-cabrera</command-palette-token>
+                >Luismaozinha</command-palette-token>
               <command-palette-token
-                data-text="/felipe-cabrera.github.io"
+                data-text="/Luismaozinha.github.io"
                 data-id="MDEwOlJlcG9zaXRvcnkzMTcwNTE0MDM="
                 data-type="repository"
-                data-value="felipe-cabrera.github.io"
+                data-value="Luismaozinha.github.io"
                 data-targets="command-palette-scope.tokens"
-                >/felipe-cabrera.github.io</command-palette-token>
+                >/Luismaozinha.github.io</command-palette-token>
           </command-palette-scope>
       </command-palette-input>
 
@@ -1299,11 +1305,11 @@
     <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path>
 </svg>
   <span class="author flex-self-stretch" itemprop="author">
-    <a class="url fn" rel="author" data-hovercard-type="user" data-hovercard-url="/users/felipe-cabrera/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/felipe-cabrera">felipe-cabrera</a>
+    <a class="url fn" rel="author" data-hovercard-type="user" data-hovercard-url="/users/Luismaozinha/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/Luismaozinha">Luismaozinha</a>
   </span>
   <span class="mx-1 flex-self-stretch color-fg-muted">/</span>
   <strong itemprop="name" class="mr-2 flex-self-stretch">
-    <a data-pjax="#repo-content-pjax-container" href="/felipe-cabrera/felipe-cabrera.github.io">felipe-cabrera.github.io</a>
+    <a data-pjax="#repo-content-pjax-container" href="/Luismaozinha/Luismaozinha.github.io">Luismaozinha.github.io</a>
   </strong>
 
   <span></span><span class="Label Label--secondary v-align-middle mr-1">Public</span>
@@ -1321,7 +1327,7 @@
         data-action="toggle:notifications-list-subscription-form#detailsToggled"
       >
 
-      <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:317051403,&quot;originating_url&quot;:&quot;https://github.com/felipe-cabrera/felipe-cabrera.github.io/blob/main/assets/mail/contact_me.php&quot;,&quot;user_id&quot;:94084490}}" data-hydro-click-hmac="8ee555079cca08f9b97aee09428d26bdf0fbc4ca779448eef759a2496af62285" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="rounded-right-0 btn-sm btn">
+      <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:317051403,&quot;originating_url&quot;:&quot;https://github.com/Luismaozinha/Luismaozinha.github.io/blob/main/assets/mail/contact_me.php&quot;,&quot;user_id&quot;:94084490}}" data-hydro-click-hmac="8ee555079cca08f9b97aee09428d26bdf0fbc4ca779448eef759a2496af62285" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="rounded-right-0 btn-sm btn">
   
   
           <span data-menu-button>
@@ -1378,7 +1384,7 @@
             </header>
 
             <div class="SelectMenu-list">
-              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="H7+CzrjCC7nSm7szpDhnHth07/R6Qpe5CQ4NmjoDk+zD5x9M3qYpJ4RunsZFpeKeFq8b3W9kKIkrQ1b0J5FksA==" autocomplete="off" />
+              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="lpDrmpGJ1ippF96kQ1xYrHO3ydotsWvlddhA7ugTZHZKyHYY9+30tD/i+1Giwd0svWw98ziX1NVXlRuA9YGTKg==" autocomplete="off" />
 
                 <input type="hidden" name="repository_id" value="317051403">
 
@@ -1501,7 +1507,7 @@
 
         <details-dialog class="notifications-component-dialog " data-target="notifications-list-subscription-form.customDialog" hidden>
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Xmjr6/F/E76AUYqiScA3LONVqHudsbDBi4S69lgF+06CMHZplxsxINakr1eoXbKsLY5cUoiXD/GpyeGYRZcMEg==" autocomplete="off" />
+            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="qOjhaO53YZOo00zWVBzeFekaCEq6xoQm2Z4EZzz7Dqd0sHzqiBNDDf4maSO1gVuVJ8H8Y6/gOxb7018JIWn5+w==" autocomplete="off" />
 
               <input type="hidden" name="repository_id" value="317051403">
 
@@ -1644,7 +1650,7 @@
         <div class="notifications-component-dialog-overlay"></div>
       </details>
         <a class="social-count"
-          href="/felipe-cabrera/felipe-cabrera.github.io/watchers"
+          href="/Luismaozinha/Luismaozinha.github.io/watchers"
           aria-label="1 user is watching this repository"
           data-target="notifications-list-subscription-form.socialCount"
         >
@@ -1659,9 +1665,9 @@
 
     <li>
           <div data-view-component="true" class="js-toggler-container js-social-container starring-container d-block">
-    <form class="starred js-social-form" action="/felipe-cabrera/felipe-cabrera.github.io/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="XLK9gQngUT+GLs5sMHyx0c3OQdGz94xgTpqgO7Wv2AUO4CGlXF39Xv70MwvxewPeYoq7qgN4+zCh9quHVO8m9A==" autocomplete="off" />
+    <form class="starred js-social-form" action="/Luismaozinha/Luismaozinha.github.io/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Ol1zhkJPGPS7FUEwL5iMdvAsu6+RmmqMUmIdblczg11oD++iF/K0lcPPvFfunz55X2hB1CEVHdy9DhbStnN9rA==" autocomplete="off" />
       <input type="hidden" name="context" value="repository">
-      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:317051403,&quot;originating_url&quot;:&quot;https://github.com/felipe-cabrera/felipe-cabrera.github.io/blob/main/assets/mail/contact_me.php&quot;,&quot;user_id&quot;:94084490}}" data-hydro-click-hmac="71f8ec510540672c1d1a784187a6f78276b6755160695121c4ff9e5084ecd053" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository" type="submit" data-view-component="true" class="js-toggler-target btn-with-count btn-sm btn">
+      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:317051403,&quot;originating_url&quot;:&quot;https://github.com/Luismaozinha/Luismaozinha.github.io/blob/main/assets/mail/contact_me.php&quot;,&quot;user_id&quot;:94084490}}" data-hydro-click-hmac="71f8ec510540672c1d1a784187a6f78276b6755160695121c4ff9e5084ecd053" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository" type="submit" data-view-component="true" class="js-toggler-target btn-with-count btn-sm btn">
   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill mr-1">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path>
 </svg>
@@ -1673,7 +1679,7 @@
 
 </button>        <a
           class="social-count js-social-count"
-          href="/felipe-cabrera/felipe-cabrera.github.io/stargazers"
+          href="/Luismaozinha/Luismaozinha.github.io/stargazers"
           aria-label="0 users starred this repository"
           data-singular-suffix="user starred this repository"
           data-plural-suffix="users starred this repository"
@@ -1681,9 +1687,9 @@
           0
         </a>
 </form>
-    <form class="unstarred js-social-form" action="/felipe-cabrera/felipe-cabrera.github.io/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="2Ooq8y1M1R9NOxkkiFEd9J/kolFzQdZ4FF9E/7FrNVjtMECjr0nua5mw263dWhts6NXrBS/+Q9Vw/Yswrk+Mkg==" autocomplete="off" />
+    <form class="unstarred js-social-form" action="/Luismaozinha/Luismaozinha.github.io/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="s7+dKxiqQwwL/In9NsiCOxNphySmK9055U7bqmbmsYGGZfd7mq94eN93S3Rjw4SjZFjOcPqUSJSB7BRlecIISw==" autocomplete="off" />
       <input type="hidden" name="context" value="repository">
-      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:317051403,&quot;originating_url&quot;:&quot;https://github.com/felipe-cabrera/felipe-cabrera.github.io/blob/main/assets/mail/contact_me.php&quot;,&quot;user_id&quot;:94084490}}" data-hydro-click-hmac="4fdee3d17293afca9beb698809f0615e276a80374c22eea2b5de634a38e7bb12" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository" type="submit" data-view-component="true" class="js-toggler-target btn-with-count btn-sm btn">
+      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:317051403,&quot;originating_url&quot;:&quot;https://github.com/Luismaozinha/Luismaozinha.github.io/blob/main/assets/mail/contact_me.php&quot;,&quot;user_id&quot;:94084490}}" data-hydro-click-hmac="4fdee3d17293afca9beb698809f0615e276a80374c22eea2b5de634a38e7bb12" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository" type="submit" data-view-component="true" class="js-toggler-target btn-with-count btn-sm btn">
   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star mr-1">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
 </svg>
@@ -1695,7 +1701,7 @@
 
 </button>        <a
           class="social-count js-social-count"
-          href="/felipe-cabrera/felipe-cabrera.github.io/stargazers"
+          href="/Luismaozinha/Luismaozinha.github.io/stargazers"
           aria-label="0 users starred this repository"
           data-singular-suffix="user starred this repository"
           data-plural-suffix="users starred this repository"
@@ -1707,8 +1713,8 @@
     </li>
 
     <li>
-              <form class="btn-with-count" action="/felipe-cabrera/felipe-cabrera.github.io/fork" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="58yykEsW6kCvOic6yM2Z0BWm0SEvz0ibUiioT0FdCB9i4/xnM/nIAtNKj49lObee2yYi2pyO0OeUQKNcPhesKw==" autocomplete="off" />
-        <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:317051403,&quot;originating_url&quot;:&quot;https://github.com/felipe-cabrera/felipe-cabrera.github.io/blob/main/assets/mail/contact_me.php&quot;,&quot;user_id&quot;:94084490}}" data-hydro-click-hmac="85bdfe63144532545484aab83bf6c1f4206e8d6817d2c2fbfca9d3532a157a54" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of felipe-cabrera/felipe-cabrera.github.io to your account" type="submit" data-view-component="true" class="btn-with-count btn-sm btn">
+              <form class="btn-with-count" action="/Luismaozinha/Luismaozinha.github.io/fork" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="EUk8KsEKUvStTyLVSZ5l7k8fFBpMUo2Ia2+t4yqSjAWUZnLdueVwttE/imDkakuggZ/n4f8TFfStB6bwVdgoMQ==" autocomplete="off" />
+        <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:317051403,&quot;originating_url&quot;:&quot;https://github.com/Luismaozinha/Luismaozinha.github.io/blob/main/assets/mail/contact_me.php&quot;,&quot;user_id&quot;:94084490}}" data-hydro-click-hmac="85bdfe63144532545484aab83bf6c1f4206e8d6817d2c2fbfca9d3532a157a54" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of Luismaozinha/Luismaozinha.github.io to your account" type="submit" data-view-component="true" class="btn-with-count btn-sm btn">
   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked">
     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path>
 </svg>
@@ -1719,7 +1725,7 @@
 
 </button></form>
   <a
-    href="/felipe-cabrera/felipe-cabrera.github.io/network/members"
+    href="/Luismaozinha/Luismaozinha.github.io/network/members"
     class="social-count"
     aria-label="0 users forked this repository"
   >
@@ -1746,7 +1752,7 @@
 
   <ul data-view-component="true" class="UnderlineNav-body list-style-none">
       <li data-view-component="true" class="d-inline-flex">
-  <a id="code-tab" href="/felipe-cabrera/felipe-cabrera.github.io" data-tab-item="i0code-tab" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /felipe-cabrera/felipe-cabrera.github.io" data-pjax="#repo-content-pjax-container" data-hotkey="g c" data-ga-click="Repository, Navigation click, Code tab" aria-current="page" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item selected">
+  <a id="code-tab" href="/Luismaozinha/Luismaozinha.github.io" data-tab-item="i0code-tab" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /Luismaozinha/Luismaozinha.github.io" data-pjax="#repo-content-pjax-container" data-hotkey="g c" data-ga-click="Repository, Navigation click, Code tab" aria-current="page" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item selected">
     
                   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path>
@@ -1758,7 +1764,7 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="issues-tab" href="/felipe-cabrera/felipe-cabrera.github.io/issues" data-tab-item="i1issues-tab" data-selected-links="repo_issues repo_labels repo_milestones /felipe-cabrera/felipe-cabrera.github.io/issues" data-pjax="#repo-content-pjax-container" data-hotkey="g i" data-ga-click="Repository, Navigation click, Issues tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="issues-tab" href="/Luismaozinha/Luismaozinha.github.io/issues" data-tab-item="i1issues-tab" data-selected-links="repo_issues repo_labels repo_milestones /Luismaozinha/Luismaozinha.github.io/issues" data-pjax="#repo-content-pjax-container" data-hotkey="g i" data-ga-click="Repository, Navigation click, Issues tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened UnderlineNav-octicon d-none d-sm-inline">
     <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path><path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"></path>
@@ -1770,7 +1776,7 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="pull-requests-tab" href="/felipe-cabrera/felipe-cabrera.github.io/pulls" data-tab-item="i2pull-requests-tab" data-selected-links="repo_pulls checks /felipe-cabrera/felipe-cabrera.github.io/pulls" data-pjax="#repo-content-pjax-container" data-hotkey="g p" data-ga-click="Repository, Navigation click, Pull requests tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="pull-requests-tab" href="/Luismaozinha/Luismaozinha.github.io/pulls" data-tab-item="i2pull-requests-tab" data-selected-links="repo_pulls checks /Luismaozinha/Luismaozinha.github.io/pulls" data-pjax="#repo-content-pjax-container" data-hotkey="g p" data-ga-click="Repository, Navigation click, Pull requests tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"></path>
@@ -1782,7 +1788,7 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="actions-tab" href="/felipe-cabrera/felipe-cabrera.github.io/actions" data-tab-item="i3actions-tab" data-selected-links="repo_actions /felipe-cabrera/felipe-cabrera.github.io/actions" data-pjax="#repo-content-pjax-container" data-hotkey="g a" data-ga-click="Repository, Navigation click, Actions tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="actions-tab" href="/Luismaozinha/Luismaozinha.github.io/actions" data-tab-item="i3actions-tab" data-selected-links="repo_actions /Luismaozinha/Luismaozinha.github.io/actions" data-pjax="#repo-content-pjax-container" data-hotkey="g a" data-ga-click="Repository, Navigation click, Actions tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-play UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zM6.379 5.227A.25.25 0 006 5.442v5.117a.25.25 0 00.379.214l4.264-2.559a.25.25 0 000-.428L6.379 5.227z"></path>
@@ -1794,7 +1800,7 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="projects-tab" href="/felipe-cabrera/felipe-cabrera.github.io/projects" data-tab-item="i4projects-tab" data-selected-links="repo_projects new_repo_project repo_project /felipe-cabrera/felipe-cabrera.github.io/projects" data-pjax="#repo-content-pjax-container" data-hotkey="g b" data-ga-click="Repository, Navigation click, Projects tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="projects-tab" href="/Luismaozinha/Luismaozinha.github.io/projects" data-tab-item="i4projects-tab" data-selected-links="repo_projects new_repo_project repo_project /Luismaozinha/Luismaozinha.github.io/projects" data-pjax="#repo-content-pjax-container" data-hotkey="g b" data-ga-click="Repository, Navigation click, Projects tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-project UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M1.75 0A1.75 1.75 0 000 1.75v12.5C0 15.216.784 16 1.75 16h12.5A1.75 1.75 0 0016 14.25V1.75A1.75 1.75 0 0014.25 0H1.75zM1.5 1.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v12.5a.25.25 0 01-.25.25H1.75a.25.25 0 01-.25-.25V1.75zM11.75 3a.75.75 0 00-.75.75v7.5a.75.75 0 001.5 0v-7.5a.75.75 0 00-.75-.75zm-8.25.75a.75.75 0 011.5 0v5.5a.75.75 0 01-1.5 0v-5.5zM8 3a.75.75 0 00-.75.75v3.5a.75.75 0 001.5 0v-3.5A.75.75 0 008 3z"></path>
@@ -1806,7 +1812,7 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="wiki-tab" href="/felipe-cabrera/felipe-cabrera.github.io/wiki" data-tab-item="i5wiki-tab" data-selected-links="repo_wiki /felipe-cabrera/felipe-cabrera.github.io/wiki" data-pjax="#repo-content-pjax-container" data-hotkey="g w" data-ga-click="Repository, Navigation click, Wikis tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="wiki-tab" href="/Luismaozinha/Luismaozinha.github.io/wiki" data-tab-item="i5wiki-tab" data-selected-links="repo_wiki /Luismaozinha/Luismaozinha.github.io/wiki" data-pjax="#repo-content-pjax-container" data-hotkey="g w" data-ga-click="Repository, Navigation click, Wikis tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-book UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"></path>
@@ -1818,18 +1824,18 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="security-tab" href="/felipe-cabrera/felipe-cabrera.github.io/security" data-tab-item="i6security-tab" data-selected-links="security overview alerts policy token_scanning code_scanning /felipe-cabrera/felipe-cabrera.github.io/security" data-pjax="#repo-content-pjax-container" data-hotkey="g s" data-ga-click="Repository, Navigation click, Security tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="security-tab" href="/Luismaozinha/Luismaozinha.github.io/security" data-tab-item="i6security-tab" data-selected-links="security overview alerts policy token_scanning code_scanning /Luismaozinha/Luismaozinha.github.io/security" data-pjax="#repo-content-pjax-container" data-hotkey="g s" data-ga-click="Repository, Navigation click, Security tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-shield UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M7.467.133a1.75 1.75 0 011.066 0l5.25 1.68A1.75 1.75 0 0115 3.48V7c0 1.566-.32 3.182-1.303 4.682-.983 1.498-2.585 2.813-5.032 3.855a1.7 1.7 0 01-1.33 0c-2.447-1.042-4.049-2.357-5.032-3.855C1.32 10.182 1 8.566 1 7V3.48a1.75 1.75 0 011.217-1.667l5.25-1.68zm.61 1.429a.25.25 0 00-.153 0l-5.25 1.68a.25.25 0 00-.174.238V7c0 1.358.275 2.666 1.057 3.86.784 1.194 2.121 2.34 4.366 3.297a.2.2 0 00.154 0c2.245-.956 3.582-2.104 4.366-3.298C13.225 9.666 13.5 8.36 13.5 7V3.48a.25.25 0 00-.174-.237l-5.25-1.68zM9 10.5a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.75a.75.75 0 10-1.5 0v3a.75.75 0 001.5 0v-3z"></path>
 </svg>
           <span data-content="Security">Security</span>
-            <include-fragment src="/felipe-cabrera/felipe-cabrera.github.io/security/overall-count" accept="text/fragment+html"></include-fragment>
+            <include-fragment src="/Luismaozinha/Luismaozinha.github.io/security/overall-count" accept="text/fragment+html"></include-fragment>
 
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="insights-tab" href="/felipe-cabrera/felipe-cabrera.github.io/pulse" data-tab-item="i7insights-tab" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /felipe-cabrera/felipe-cabrera.github.io/pulse" data-pjax="#repo-content-pjax-container" data-ga-click="Repository, Navigation click, Insights tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="insights-tab" href="/Luismaozinha/Luismaozinha.github.io/pulse" data-tab-item="i7insights-tab" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /Luismaozinha/Luismaozinha.github.io/pulse" data-pjax="#repo-content-pjax-container" data-ga-click="Repository, Navigation click, Insights tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-graph UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M1.5 1.75a.75.75 0 00-1.5 0v12.5c0 .414.336.75.75.75h14.5a.75.75 0 000-1.5H1.5V1.75zm14.28 2.53a.75.75 0 00-1.06-1.06L10 7.94 7.53 5.47a.75.75 0 00-1.06 0L3.22 8.72a.75.75 0 001.06 1.06L7 7.06l2.47 2.47a.75.75 0 001.06 0l5.25-5.25z"></path>
@@ -1853,35 +1859,35 @@
   
             <ul>
                 <li data-menu-item="i0code-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item selected dropdown-item" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /felipe-cabrera/felipe-cabrera.github.io" href="/felipe-cabrera/felipe-cabrera.github.io">
+                  <a role="menuitem" class="js-selected-navigation-item selected dropdown-item" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /Luismaozinha/Luismaozinha.github.io" href="/Luismaozinha/Luismaozinha.github.io">
                     Code
 </a>                </li>
                 <li data-menu-item="i1issues-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_issues repo_labels repo_milestones /felipe-cabrera/felipe-cabrera.github.io/issues" href="/felipe-cabrera/felipe-cabrera.github.io/issues">
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_issues repo_labels repo_milestones /Luismaozinha/Luismaozinha.github.io/issues" href="/Luismaozinha/Luismaozinha.github.io/issues">
                     Issues
 </a>                </li>
                 <li data-menu-item="i2pull-requests-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_pulls checks /felipe-cabrera/felipe-cabrera.github.io/pulls" href="/felipe-cabrera/felipe-cabrera.github.io/pulls">
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_pulls checks /Luismaozinha/Luismaozinha.github.io/pulls" href="/Luismaozinha/Luismaozinha.github.io/pulls">
                     Pull requests
 </a>                </li>
                 <li data-menu-item="i3actions-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_actions /felipe-cabrera/felipe-cabrera.github.io/actions" href="/felipe-cabrera/felipe-cabrera.github.io/actions">
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_actions /Luismaozinha/Luismaozinha.github.io/actions" href="/Luismaozinha/Luismaozinha.github.io/actions">
                     Actions
 </a>                </li>
                 <li data-menu-item="i4projects-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_projects new_repo_project repo_project /felipe-cabrera/felipe-cabrera.github.io/projects" href="/felipe-cabrera/felipe-cabrera.github.io/projects">
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_projects new_repo_project repo_project /Luismaozinha/Luismaozinha.github.io/projects" href="/Luismaozinha/Luismaozinha.github.io/projects">
                     Projects
 </a>                </li>
                 <li data-menu-item="i5wiki-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_wiki /felipe-cabrera/felipe-cabrera.github.io/wiki" href="/felipe-cabrera/felipe-cabrera.github.io/wiki">
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_wiki /Luismaozinha/Luismaozinha.github.io/wiki" href="/Luismaozinha/Luismaozinha.github.io/wiki">
                     Wiki
 </a>                </li>
                 <li data-menu-item="i6security-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="security overview alerts policy token_scanning code_scanning /felipe-cabrera/felipe-cabrera.github.io/security" href="/felipe-cabrera/felipe-cabrera.github.io/security">
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="security overview alerts policy token_scanning code_scanning /Luismaozinha/Luismaozinha.github.io/security" href="/Luismaozinha/Luismaozinha.github.io/security">
                     Security
 </a>                </li>
                 <li data-menu-item="i7insights-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /felipe-cabrera/felipe-cabrera.github.io/pulse" href="/felipe-cabrera/felipe-cabrera.github.io/pulse">
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /Luismaozinha/Luismaozinha.github.io/pulse" href="/Luismaozinha/Luismaozinha.github.io/pulse">
                     Insights
 </a>                </li>
             </ul>
@@ -1909,7 +1915,7 @@
 
 
 
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/felipe-cabrera/felipe-cabrera.github.io/blob/38eb416631760f260811f9c0e8a9867ce6f89512/assets/mail/contact_me.php">Permalink</a>
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/Luismaozinha/Luismaozinha.github.io/blob/38eb416631760f260811f9c0e8a9867ce6f89512/assets/mail/contact_me.php">Permalink</a>
 
 
     <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
@@ -1966,7 +1972,7 @@
               tab-selected:ref-selector#tabSelected
               focus-list:ref-selector#focusFirstListMember
             "
-            query-endpoint="/felipe-cabrera/felipe-cabrera.github.io/refs"
+            query-endpoint="/Luismaozinha/Luismaozinha.github.io/refs"
             
             cache-key="v0:1606687219.0"
             current-committish="bWFpbg=="
@@ -1998,7 +2004,7 @@
             </div>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/felipe-cabrera/felipe-cabrera.github.io/blob/{{ urlEncodedRefName }}/assets/mail/contact_me.php" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/Luismaozinha/Luismaozinha.github.io/blob/{{ urlEncodedRefName }}/assets/mail/contact_me.php" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2008,7 +2014,7 @@
 </template>
 
 
-              <footer class="SelectMenu-footer"><a href="/felipe-cabrera/felipe-cabrera.github.io/branches">View all branches</a></footer>
+              <footer class="SelectMenu-footer"><a href="/Luismaozinha/Luismaozinha.github.io/branches">View all branches</a></footer>
           </ref-selector>
 
         </div>
@@ -2022,7 +2028,7 @@
               focus-list:ref-selector#focusFirstListMember
             "
             data-targets="input-demux.sinks"
-            query-endpoint="/felipe-cabrera/felipe-cabrera.github.io/refs"
+            query-endpoint="/Luismaozinha/Luismaozinha.github.io/refs"
             cache-key="v0:1606687219.0"
             current-committish="bWFpbg=="
             default-branch="bWFpbg=="
@@ -2038,7 +2044,7 @@
             </template>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/felipe-cabrera/felipe-cabrera.github.io/blob/{{ urlEncodedRefName }}/assets/mail/contact_me.php" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/Luismaozinha/Luismaozinha.github.io/blob/{{ urlEncodedRefName }}/assets/mail/contact_me.php" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2059,7 +2065,7 @@
 
               </div>
             </div>
-              <footer class="SelectMenu-footer"><a href="/felipe-cabrera/felipe-cabrera.github.io/tags">View all tags</a></footer>
+              <footer class="SelectMenu-footer"><a href="/Luismaozinha/Luismaozinha.github.io/tags">View all tags</a></footer>
           </ref-selector>
         </div>
       </tab-container>
@@ -2072,9 +2078,9 @@
 </div>
 
       <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/felipe-cabrera/felipe-cabrera.github.io"><span>felipe-cabrera.github.io</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/felipe-cabrera/felipe-cabrera.github.io/tree/main/assets"><span>assets</span></a></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/felipe-cabrera/felipe-cabrera.github.io/tree/main/assets/mail"><span>mail</span></a></span><span class="separator">/</span><strong class="final-path">contact_me.php</strong>
+        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/Luismaozinha/Luismaozinha.github.io"><span>Luismaozinha.github.io</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/Luismaozinha/Luismaozinha.github.io/tree/main/assets"><span>assets</span></a></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/Luismaozinha/Luismaozinha.github.io/tree/main/assets/mail"><span>mail</span></a></span><span class="separator">/</span><strong class="final-path">contact_me.php</strong>
           <span class="separator">/</span><details class="details-reset details-overlay d-inline" id="jumpto-symbol-select-menu">
-  <summary aria-haspopup="true" data-hotkey="r" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_blob_definitions&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_blob_definitions&quot;,&quot;repository_id&quot;:317051403,&quot;ref&quot;:&quot;main&quot;,&quot;language&quot;:&quot;PHP&quot;,&quot;originating_url&quot;:&quot;https://github.com/felipe-cabrera/felipe-cabrera.github.io/blob/main/assets/mail/contact_me.php&quot;,&quot;user_id&quot;:94084490}}" data-hydro-click-hmac="14111c2e8b6c79b853391a2267f06f89dfbf1ac84ace4b299a413879becc0015" data-view-component="true" class="Link--secondary css-truncate btn-link">
+  <summary aria-haspopup="true" data-hotkey="r" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_blob_definitions&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_blob_definitions&quot;,&quot;repository_id&quot;:317051403,&quot;ref&quot;:&quot;main&quot;,&quot;language&quot;:&quot;PHP&quot;,&quot;originating_url&quot;:&quot;https://github.com/Luismaozinha/Luismaozinha.github.io/blob/main/assets/mail/contact_me.php&quot;,&quot;user_id&quot;:94084490}}" data-hydro-click-hmac="14111c2e8b6c79b853391a2267f06f89dfbf1ac84ace4b299a413879becc0015" data-view-component="true" class="Link--secondary css-truncate btn-link">
   
   
       <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
@@ -2121,7 +2127,7 @@
 </details>
 
       </h2>
-      <a href="/felipe-cabrera/felipe-cabrera.github.io/find/main"
+      <a href="/Luismaozinha/Luismaozinha.github.io/find/main"
             class="js-pjax-capture-input btn mr-2 d-none d-md-block"
             data-pjax
             data-hotkey="t">
@@ -2140,7 +2146,7 @@
 </summary>
   <div data-view-component="true">          <ul class="dropdown-menu dropdown-menu-sw">
             <li class="d-block d-md-none">
-              <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:317051403,&quot;originating_url&quot;:&quot;https://github.com/felipe-cabrera/felipe-cabrera.github.io/blob/main/assets/mail/contact_me.php&quot;,&quot;user_id&quot;:94084490}}" data-hydro-click-hmac="fda1fe8ab42da223e611f4144e01b8c267532bf850c225c9b3dd7741d599832c" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/felipe-cabrera/felipe-cabrera.github.io/find/main">
+              <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:317051403,&quot;originating_url&quot;:&quot;https://github.com/Luismaozinha/Luismaozinha.github.io/blob/main/assets/mail/contact_me.php&quot;,&quot;user_id&quot;:94084490}}" data-hydro-click-hmac="fda1fe8ab42da223e611f4144e01b8c267532bf850c225c9b3dd7741d599832c" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/Luismaozinha/Luismaozinha.github.io/find/main">
                 <span class="flex-auto">Go to file</span>
                 <span class="text-small color-fg-muted" aria-hidden="true">T</span>
 </a>            </li>
@@ -2176,7 +2182,7 @@
 
 </clipboard-copy>            </li>
             <li>
-              <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/felipe-cabrera/felipe-cabrera.github.io/blob/38eb416631760f260811f9c0e8a9867ce6f89512/assets/mail/contact_me.php" data-view-component="true" class="dropdown-item cursor-pointer">
+              <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/Luismaozinha/Luismaozinha.github.io/blob/38eb416631760f260811f9c0e8a9867ce6f89512/assets/mail/contact_me.php" data-view-component="true" class="dropdown-item cursor-pointer">
     
                 <span class="d-flex flex-items-baseline">
                   <span class="flex-auto">Copy permalink</span>
@@ -2191,7 +2197,7 @@
 
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-      <include-fragment src="/felipe-cabrera/felipe-cabrera.github.io/contributors/main/assets/mail/contact_me.php" class="commit-loader">
+      <include-fragment src="/Luismaozinha/Luismaozinha.github.io/contributors/main/assets/mail/contact_me.php" class="commit-loader">
         <div class="Box-header d-flex flex-items-center">
           <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
           <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
@@ -2232,13 +2238,13 @@
       
 
     <div class="BtnGroup">
-      <a href="/felipe-cabrera/felipe-cabrera.github.io/raw/main/assets/mail/contact_me.php" id="raw-url" data-view-component="true" class="btn-sm btn BtnGroup-item">
+      <a href="/Luismaozinha/Luismaozinha.github.io/raw/main/assets/mail/contact_me.php" id="raw-url" data-view-component="true" class="btn-sm btn BtnGroup-item">
   
   Raw
   
 
 </a>
-        <a href="/felipe-cabrera/felipe-cabrera.github.io/blame/main/assets/mail/contact_me.php" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash btn-sm btn BtnGroup-item">
+        <a href="/Luismaozinha/Luismaozinha.github.io/blame/main/assets/mail/contact_me.php" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash btn-sm btn BtnGroup-item">
   
   Blame
   
@@ -2249,7 +2255,7 @@
     <div>
           <a class="btn-octicon tooltipped tooltipped-nw js-remove-unless-platform"
              data-platforms="windows,mac"
-             href="x-github-client://openRepo/https://github.com/felipe-cabrera/felipe-cabrera.github.io?branch=main&amp;filepath=assets%2Fmail%2Fcontact_me.php"
+             href="x-github-client://openRepo/https://github.com/Luismaozinha/Luismaozinha.github.io?branch=main&amp;filepath=assets%2Fmail%2Fcontact_me.php"
              aria-label="Open this file in GitHub Desktop"
              data-ga-click="Repository, open with desktop">
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-device-desktop">
@@ -2258,7 +2264,7 @@
           </a>
 
         
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/felipe-cabrera/felipe-cabrera.github.io/edit/main/assets/mail/contact_me.php" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="OMxaWYYTvbrTZP6mjE24KpE9fbuQGE0rBkcwhBG8EhgYpl0gOHYLskAkTTIoJq/6ZuIp0+XOg+iWmhVM6/VOVQ==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/Luismaozinha/Luismaozinha.github.io/edit/main/assets/mail/contact_me.php" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="c4Z23tzY2w1YH472H2JsZtmq52UURmvDwrlIu8Tu05NT7HGnYr1tBctfPWK7CXu2LnWzDWGQpQBSZG1zPqeP3g==" />
             <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
@@ -2266,7 +2272,7 @@
 </svg>
             </button>
 </form>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/felipe-cabrera/felipe-cabrera.github.io/delete/main/assets/mail/contact_me.php" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="e/jlQDwA9s2/Q/Lns7mS+DLmVOH2YyKZwze7KO/l8F/fiHRjw6cuKJSgxIwbmc3hjP1mSzSC26l/PC9y0dVEOw==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/Luismaozinha/Luismaozinha.github.io/delete/main/assets/mail/contact_me.php" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="7bQ9v4E8fpJwDOYdN8wCgrS9WWhknDZCsFS9z+3SlydJxKycfpumd1vv0Haf7F2bCqZrwqZ9z3IMXymV0+IjQw==" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and delete the file" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
@@ -2288,30 +2294,30 @@
             <li>
                 <a class="dropdown-item tooltipped tooltipped-nw js-remove-unless-platform"
                    data-platforms="windows,mac"
-                   href="x-github-client://openRepo/https://github.com/felipe-cabrera/felipe-cabrera.github.io?branch=main&amp;filepath=assets%2Fmail%2Fcontact_me.php"
+                   href="x-github-client://openRepo/https://github.com/Luismaozinha/Luismaozinha.github.io?branch=main&amp;filepath=assets%2Fmail%2Fcontact_me.php"
                    data-ga-click="Repository, open with desktop">
                   Open with Desktop
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/felipe-cabrera/felipe-cabrera.github.io/raw/main/assets/mail/contact_me.php">
+            <a class="dropdown-item" href="/Luismaozinha/Luismaozinha.github.io/raw/main/assets/mail/contact_me.php">
               View raw
             </a>
           </li>
             <li>
                           </li>
             <li>
-              <a class="dropdown-item" href="/felipe-cabrera/felipe-cabrera.github.io/blame/main/assets/mail/contact_me.php">
+              <a class="dropdown-item" href="/Luismaozinha/Luismaozinha.github.io/blame/main/assets/mail/contact_me.php">
                 View blame
               </a>
             </li>
 
               <li class="dropdown-divider" role="none"></li>
               <li>
-                <a class="dropdown-item" href="/felipe-cabrera/felipe-cabrera.github.io/edit/main/assets/mail/contact_me.php">Edit file</a>
+                <a class="dropdown-item" href="/Luismaozinha/Luismaozinha.github.io/edit/main/assets/mail/contact_me.php">Edit file</a>
               </li>
               <li>
-                <a class="dropdown-item menu-item-danger" href="/felipe-cabrera/felipe-cabrera.github.io/delete/main/assets/mail/contact_me.php">Delete file</a>
+                <a class="dropdown-item menu-item-danger" href="/Luismaozinha/Luismaozinha.github.io/delete/main/assets/mail/contact_me.php">Delete file</a>
               </li>
         </ul>
       </details>
@@ -2408,7 +2414,7 @@
         </tr>
         <tr>
           <td id="L14" class="blob-num js-line-number js-code-nav-line-number" data-line-number="14"></td>
-          <td id="LC14" class="blob-code blob-code-inner js-file-line"><span class=pl-s1><span class=pl-c1>$</span>to</span> = <span class=pl-s>&quot;felipe@bylearn.com.br&quot;</span>; <span class=pl-c>// Add your email address in between the &quot;&quot; replacing yourname@yourdomain.com - This is where the form will send a message to.</span></td>
+          <td id="LC14" class="blob-code blob-code-inner js-file-line"><span class=pl-s1><span class=pl-c1>$</span>to</span> = <span class=pl-s>&quot;luismaozinha@hotmail.com&quot;</span>; <span class=pl-c>// Add your email address in between the &quot;&quot; replacing yourname@yourdomain.com - This is where the form will send a message to.</span></td>
         </tr>
         <tr>
           <td id="L15" class="blob-num js-line-number js-code-nav-line-number" data-line-number="15"></td>
@@ -2420,7 +2426,7 @@
         </tr>
         <tr>
           <td id="L17" class="blob-num js-line-number js-code-nav-line-number" data-line-number="17"></td>
-          <td id="LC17" class="blob-code blob-code-inner js-file-line"><span class=pl-s1><span class=pl-c1>$</span>header</span> = <span class=pl-s>&quot;From: noreply-github@bylearn.com.br\n&quot;</span>; <span class=pl-c>// This is the email address the generated message will be from. We recommend using something like noreply@yourdomain.com.</span></td>
+          <td id="LC17" class="blob-code blob-code-inner js-file-line"><span class=pl-s1><span class=pl-c1>$</span>header</span> = <span class=pl-s>&quot;From: luismaozinha@yahoo.com.br\n&quot;</span>; <span class=pl-c>// This is the email address the generated message will be from. We recommend using something like noreply@yourdomain.com.</span></td>
         </tr>
         <tr>
           <td id="L18" class="blob-num js-line-number js-code-nav-line-number" data-line-number="18"></td>
@@ -2467,8 +2473,8 @@
             Copy permalink
           </clipboard-copy>
         </li>
-        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/felipe-cabrera/felipe-cabrera.github.io/blame/38eb416631760f260811f9c0e8a9867ce6f89512/assets/mail/contact_me.php">View git blame</a></li>
-          <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/felipe-cabrera/felipe-cabrera.github.io/issues/new">Reference in new issue</a></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/Luismaozinha/Luismaozinha.github.io/blame/38eb416631760f260811f9c0e8a9867ce6f89512/assets/mail/contact_me.php">View git blame</a></li>
+          <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/Luismaozinha/Luismaozinha.github.io/issues/new">Reference in new issue</a></li>
       </ul>
     </details-menu>
   </details>
@@ -2496,7 +2502,7 @@
 
     <div class="Popover anim-scale-in js-tagsearch-popover"
      hidden
-     data-tagsearch-url="/felipe-cabrera/felipe-cabrera.github.io/find-definition"
+     data-tagsearch-url="/Luismaozinha/Luismaozinha.github.io/find-definition"
      data-tagsearch-ref="main">
   <div class="Popover-message Popover-message--large Popover-message--top-left TagsearchPopover mt-1 mb-4 mx-auto Box color-shadow-large">
     <div class="TagsearchPopover-content js-tagsearch-popover-content overflow-auto" style="will-change:transform;">
@@ -2533,16 +2539,16 @@
       </li>
     </ul>
     <ul class="list-style-none d-flex flex-wrap col-12 col-lg-8 flex-justify-start flex-lg-justify-between mb-2 mb-lg-0">
-        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-terms-of-service" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to terms&quot;,&quot;label&quot;:&quot;text:terms&quot;,&quot;originating_url&quot;:&quot;https://github.com/felipe-cabrera/felipe-cabrera.github.io/blob/main/assets/mail/contact_me.php&quot;,&quot;user_id&quot;:94084490}}" data-hydro-click-hmac="75d2157f02750009df8a7e1ebcdfcefe075bacaf98eb9b6eef0d922bfa4d85d0" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to terms&quot;,&quot;label&quot;:&quot;text:terms&quot;}">Terms</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-privacy-statement" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to privacy&quot;,&quot;label&quot;:&quot;text:privacy&quot;,&quot;originating_url&quot;:&quot;https://github.com/felipe-cabrera/felipe-cabrera.github.io/blob/main/assets/mail/contact_me.php&quot;,&quot;user_id&quot;:94084490}}" data-hydro-click-hmac="1f97813c2929f2e7d1be5d0858a6a8edb690868faba023d1f918c62837d195f5" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to privacy&quot;,&quot;label&quot;:&quot;text:privacy&quot;}">Privacy</a></li>
-        <li class="mr-3 mr-lg-0"><a data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to security&quot;,&quot;label&quot;:&quot;text:security&quot;,&quot;originating_url&quot;:&quot;https://github.com/felipe-cabrera/felipe-cabrera.github.io/blob/main/assets/mail/contact_me.php&quot;,&quot;user_id&quot;:94084490}}" data-hydro-click-hmac="46d617e89ac494c6a705b18cccfab52fe682b453d938ac1a172bb7edb17a9db6" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to security&quot;,&quot;label&quot;:&quot;text:security&quot;}" href="https://github.com/security">Security</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://www.githubstatus.com/" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to status&quot;,&quot;label&quot;:&quot;text:status&quot;,&quot;originating_url&quot;:&quot;https://github.com/felipe-cabrera/felipe-cabrera.github.io/blob/main/assets/mail/contact_me.php&quot;,&quot;user_id&quot;:94084490}}" data-hydro-click-hmac="613c31bf04581a955b0d7ed20cdfe422223f964404457a4540471306a0470ac4" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to status&quot;,&quot;label&quot;:&quot;text:status&quot;}">Status</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-terms-of-service" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to terms&quot;,&quot;label&quot;:&quot;text:terms&quot;,&quot;originating_url&quot;:&quot;https://github.com/Luismaozinha/Luismaozinha.github.io/blob/main/assets/mail/contact_me.php&quot;,&quot;user_id&quot;:94084490}}" data-hydro-click-hmac="75d2157f02750009df8a7e1ebcdfcefe075bacaf98eb9b6eef0d922bfa4d85d0" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to terms&quot;,&quot;label&quot;:&quot;text:terms&quot;}">Terms</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-privacy-statement" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to privacy&quot;,&quot;label&quot;:&quot;text:privacy&quot;,&quot;originating_url&quot;:&quot;https://github.com/Luismaozinha/Luismaozinha.github.io/blob/main/assets/mail/contact_me.php&quot;,&quot;user_id&quot;:94084490}}" data-hydro-click-hmac="1f97813c2929f2e7d1be5d0858a6a8edb690868faba023d1f918c62837d195f5" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to privacy&quot;,&quot;label&quot;:&quot;text:privacy&quot;}">Privacy</a></li>
+        <li class="mr-3 mr-lg-0"><a data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to security&quot;,&quot;label&quot;:&quot;text:security&quot;,&quot;originating_url&quot;:&quot;https://github.com/Luismaozinha/Luismaozinha.github.io/blob/main/assets/mail/contact_me.php&quot;,&quot;user_id&quot;:94084490}}" data-hydro-click-hmac="46d617e89ac494c6a705b18cccfab52fe682b453d938ac1a172bb7edb17a9db6" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to security&quot;,&quot;label&quot;:&quot;text:security&quot;}" href="https://github.com/security">Security</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://www.githubstatus.com/" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to status&quot;,&quot;label&quot;:&quot;text:status&quot;,&quot;originating_url&quot;:&quot;https://github.com/Luismaozinha/Luismaozinha.github.io/blob/main/assets/mail/contact_me.php&quot;,&quot;user_id&quot;:94084490}}" data-hydro-click-hmac="613c31bf04581a955b0d7ed20cdfe422223f964404457a4540471306a0470ac4" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to status&quot;,&quot;label&quot;:&quot;text:status&quot;}">Status</a></li>
         <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to help, text:Docs" href="https://docs.github.com">Docs</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://support.github.com?tags=dotcom-footer" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to contact&quot;,&quot;label&quot;:&quot;text:contact&quot;,&quot;originating_url&quot;:&quot;https://github.com/felipe-cabrera/felipe-cabrera.github.io/blob/main/assets/mail/contact_me.php&quot;,&quot;user_id&quot;:94084490}}" data-hydro-click-hmac="daf84dd764a8a16f44529852aecf67e0cface87f7ee685c29d05f33058ac13bc" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to contact&quot;,&quot;label&quot;:&quot;text:contact&quot;}">Contact GitHub</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://github.com/pricing" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Pricing&quot;,&quot;label&quot;:&quot;text:Pricing&quot;,&quot;originating_url&quot;:&quot;https://github.com/felipe-cabrera/felipe-cabrera.github.io/blob/main/assets/mail/contact_me.php&quot;,&quot;user_id&quot;:94084490}}" data-hydro-click-hmac="05f5c4595a67338b5272c42943f0ddc099182ce06eb0c759ff5cd3dd6f2526a0" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Pricing&quot;,&quot;label&quot;:&quot;text:Pricing&quot;}">Pricing</a></li>
-      <li class="mr-3 mr-lg-0"><a href="https://docs.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to api&quot;,&quot;label&quot;:&quot;text:api&quot;,&quot;originating_url&quot;:&quot;https://github.com/felipe-cabrera/felipe-cabrera.github.io/blob/main/assets/mail/contact_me.php&quot;,&quot;user_id&quot;:94084490}}" data-hydro-click-hmac="8a0250302e612eefc0d4a0f105b61aa4ff4f0f717a1a8bb1276ce986b0dfda77" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to api&quot;,&quot;label&quot;:&quot;text:api&quot;}">API</a></li>
-      <li class="mr-3 mr-lg-0"><a href="https://services.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to training&quot;,&quot;label&quot;:&quot;text:training&quot;,&quot;originating_url&quot;:&quot;https://github.com/felipe-cabrera/felipe-cabrera.github.io/blob/main/assets/mail/contact_me.php&quot;,&quot;user_id&quot;:94084490}}" data-hydro-click-hmac="873b9bfaec0f84a134c2d2d95a263af7892be8f3d026013ec430e6129d60c4f3" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to training&quot;,&quot;label&quot;:&quot;text:training&quot;}">Training</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://github.blog" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to blog&quot;,&quot;label&quot;:&quot;text:blog&quot;,&quot;originating_url&quot;:&quot;https://github.com/felipe-cabrera/felipe-cabrera.github.io/blob/main/assets/mail/contact_me.php&quot;,&quot;user_id&quot;:94084490}}" data-hydro-click-hmac="23a520a2f91fd59c228a5ccb1504d6cad02edd64480878f88be9d65649a8b97d" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to blog&quot;,&quot;label&quot;:&quot;text:blog&quot;}">Blog</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://support.github.com?tags=dotcom-footer" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to contact&quot;,&quot;label&quot;:&quot;text:contact&quot;,&quot;originating_url&quot;:&quot;https://github.com/Luismaozinha/Luismaozinha.github.io/blob/main/assets/mail/contact_me.php&quot;,&quot;user_id&quot;:94084490}}" data-hydro-click-hmac="daf84dd764a8a16f44529852aecf67e0cface87f7ee685c29d05f33058ac13bc" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to contact&quot;,&quot;label&quot;:&quot;text:contact&quot;}">Contact GitHub</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://github.com/pricing" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Pricing&quot;,&quot;label&quot;:&quot;text:Pricing&quot;,&quot;originating_url&quot;:&quot;https://github.com/Luismaozinha/Luismaozinha.github.io/blob/main/assets/mail/contact_me.php&quot;,&quot;user_id&quot;:94084490}}" data-hydro-click-hmac="05f5c4595a67338b5272c42943f0ddc099182ce06eb0c759ff5cd3dd6f2526a0" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Pricing&quot;,&quot;label&quot;:&quot;text:Pricing&quot;}">Pricing</a></li>
+      <li class="mr-3 mr-lg-0"><a href="https://docs.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to api&quot;,&quot;label&quot;:&quot;text:api&quot;,&quot;originating_url&quot;:&quot;https://github.com/Luismaozinha/Luismaozinha.github.io/blob/main/assets/mail/contact_me.php&quot;,&quot;user_id&quot;:94084490}}" data-hydro-click-hmac="8a0250302e612eefc0d4a0f105b61aa4ff4f0f717a1a8bb1276ce986b0dfda77" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to api&quot;,&quot;label&quot;:&quot;text:api&quot;}">API</a></li>
+      <li class="mr-3 mr-lg-0"><a href="https://services.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to training&quot;,&quot;label&quot;:&quot;text:training&quot;,&quot;originating_url&quot;:&quot;https://github.com/Luismaozinha/Luismaozinha.github.io/blob/main/assets/mail/contact_me.php&quot;,&quot;user_id&quot;:94084490}}" data-hydro-click-hmac="873b9bfaec0f84a134c2d2d95a263af7892be8f3d026013ec430e6129d60c4f3" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to training&quot;,&quot;label&quot;:&quot;text:training&quot;}">Training</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://github.blog" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to blog&quot;,&quot;label&quot;:&quot;text:blog&quot;,&quot;originating_url&quot;:&quot;https://github.com/Luismaozinha/Luismaozinha.github.io/blob/main/assets/mail/contact_me.php&quot;,&quot;user_id&quot;:94084490}}" data-hydro-click-hmac="23a520a2f91fd59c228a5ccb1504d6cad02edd64480878f88be9d65649a8b97d" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to blog&quot;,&quot;label&quot;:&quot;text:blog&quot;}">Blog</a></li>
         <li><a data-ga-click="Footer, go to about, text:about" href="https://github.com/about">About</a></li>
     </ul>
   </div>
