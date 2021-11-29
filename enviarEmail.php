@@ -28,3 +28,6 @@ $headers .= "X-IP:  ".$_SERVER['REMOTE_ADDR']."\n";
 $headers .= "Return-Path:  <$email>\n";
 //caso a msg //seja respondida vai para  este email.
 $headers .= "MIME-Version: 1.0\n";
+
+mail($para, $assunto, $mensagem, $headers);  //função que faz o envio do email.
+?>
